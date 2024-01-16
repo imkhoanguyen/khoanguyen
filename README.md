@@ -5,7 +5,7 @@
 
 - 🔭 I am currently studying **Information Technology at Saigon University, majoring in Software Engineering**
 
-- 🌱 I’m currently learning **PHP, Python**
+- 🌱 I’m currently learning **PHP, Python, Clean Architecture**
 
 - 💬 Ask me about **.NET**
 
