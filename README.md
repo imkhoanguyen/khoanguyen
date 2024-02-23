@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khoa Nguyen</h1>
 <h3 align="center">3rd year student at Saigon University</h3>
-<h4 align="center">My goal is to become a .Net Developer</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkhoanguyen&label=Profile%20views&color=0e75b6&style=flat" alt="imkhoanguyen" /> </p>
 
 - 🔭 I am currently studying **Information Technology at Saigon University, majoring in Software Engineering**
