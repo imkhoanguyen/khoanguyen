@@ -8,10 +8,13 @@ body {
     max-width: 72rem;
 }
 
-a:hover, .active{
+a:hover, .active, a:active{
     color: #fff !important;
 }
 
+a:focus {
+    color: #888f98 !important;
+}
 
 .text-color {
     color: #888f98 ;

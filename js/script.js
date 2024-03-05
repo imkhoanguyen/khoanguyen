@@ -1,6 +1,6 @@
 function setActiveLink() {
     var url = window.location.href;
-    var links = document.querySelectorAll(".nav-link.text-color");
+    var links = document.querySelectorAll(".nav-link.sc");
 
     links.forEach(function (link) {
         link.classList.remove("active");
