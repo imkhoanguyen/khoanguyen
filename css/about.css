@@ -1,0 +1,32 @@
+
+.content {
+    max-width: 48rem;
+    min-height: inherit;
+    margin: 0px auto;
+    padding: 4rem 2rem 10rem;
+    min-height: calc(-5.75rem + 100vh);
+}
+
+h1 {
+    font-weight: 900;
+    letter-spacing: -0.05em;
+    font-size: 46px;
+    line-height: 1.8;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+p, h1 {
+    color: #C9d1D9 !important;
+   
+}
+
+p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+ul, li {
+    font-size: 20px;
+    color: #C9d1D9;
+}
