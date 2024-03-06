@@ -1,12 +1,5 @@
 
-.content {
-    max-width: 48rem;
-    min-height: inherit;
-    margin: 0px auto;
-    padding: 4rem 2rem 10rem;
-    min-height: calc(-5.75rem + 100vh);
-}
-
+/* css cua 3 trang cv about project */
 h1 {
     font-weight: 900;
     letter-spacing: -0.05em;
@@ -16,10 +9,13 @@ h1 {
     margin-bottom: 35px;
 }
 
-p, h1 {
+p, h1, h2 {
     color: #C9d1D9 !important;
-   
 }
+
+
+
+
 
 p {
     margin-top: 15px;
